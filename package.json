@@ -2,7 +2,7 @@
   "name": "mac-clean-ts",
   "version": "3.0.0",
   "description": "macOS cleanup tool for orphan files and development caches",
-  "type": "module",
+  "main": "./main.ts",
   "bin": {
     "mac-clean-ts": "./main.ts"
   },
